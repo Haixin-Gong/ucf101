@@ -133,8 +133,6 @@ dmypy.json
 cython_debug/
 
 # Custom
-result/
-results/
 *.h5
 method.md
 method.pdf

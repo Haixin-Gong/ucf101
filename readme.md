@@ -4,7 +4,7 @@ This project implements action recognition models on the UCF101 dataset using de
 
 ## Dataset Preparation
 
-1. Download the UCF101 dataset from [Kaggle](https://www.kaggle.com/api/v1/datasets/download/matthewjansen/ucf101-action-recognition)
+1. Download the UCF101 dataset from [Tsinghua Cloud Disk](https://cloud.tsinghua.edu.cn/d/2afbc470efce40c08b22/)
 2. Extract the downloaded file
 3. Organize the data in the following structure:
 
@@ -60,9 +60,6 @@ pip install -r requirements.txt
     - Curves of training and validation loss and accuracy 
     - Confusion matrix for evaluation
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ## Citation
 If you use this code in your research, please cite the following paper:
 ```
@@ -88,3 +85,8 @@ If you use this code in your research, please cite the following paper:
 ## Acknowledgements
 
 This project makes use of TensorFlow, an open-source machine learning framework. We would like to thank the TensorFlow team and contributors for their hard work and dedication in developing and maintaining this powerful tool. For more information about TensorFlow, please visit the [TensorFlow website](https://www.tensorflow.org/).
+
+## Contact
+If you have any questions, please contact:
+- ghx24@mails.tsinghua.edu.cn
+- zqy24@mails.tsinghua.edu.cn
