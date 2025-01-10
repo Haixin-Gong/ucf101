@@ -1,6 +1,6 @@
 # UCF101 Action Recognition
 
-This project implements action recognition models on the UCF101 dataset using deep learning approaches.
+This project implements action recognition models on the UCF101 dataset using 3DCNN and Effcient-Net.
 
 ## Dataset Preparation
 
